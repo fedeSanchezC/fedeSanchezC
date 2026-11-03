@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:06b6d4&height=210&section=header&text=Fede%20Sánchez%20Carabajal&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20%26%20Automation%20Developer&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Fede Sánchez Carabajal">
-
 <a href="https://github.com/fedeSanchezC">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1600&color=6366F1&center=true&vCenter=true&width=640&lines=Datos+%26+BI+%E2%80%94+SQL%2C+Power+BI%2C+Python;Automatizaciones+con+n8n+e+IA;Apps+web+full-stack+de+punta+a+punta;Integraciones+y+APIs+que+conectan+sistemas" alt="Typing SVG">
 </a>
