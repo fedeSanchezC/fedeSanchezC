@@ -99,7 +99,7 @@ Auth por email, donaciones, EmulatorJS y desarrollo completo de punta a punta.
 
 <a href="https://www.nastex.com.ar/"><img src="assets/nastex.gif" width="760" alt="Nastex Games"></a>
 
-En camino: multijugador online y versiones para Android e iOS.
+En camino: versiones para Android e iOS.
 
 <a href="https://www.nastex.com.ar/"><img src="https://img.shields.io/badge/Jugar_en_Nastex-nastex.com.ar-e8823a?style=for-the-badge" alt="Ver Nastex Games"></a>
 
